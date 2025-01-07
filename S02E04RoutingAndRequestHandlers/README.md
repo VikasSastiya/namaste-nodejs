@@ -32,3 +32,20 @@ press (Ctrl+`) to open terminal
 
    - if you want to ignore some big files you can write that file name  in
     .gitignore file they will be ignored by github
+    ![alt text](image-1.png)
+
+    - if you edite in vscode the code of express then to get the changed output in server you need to recreate the server means again type node index.js or any of your file name or install nodemon ,npm i -g nodemon, if you have time youmay read docs of nodemon
+
+    -![alt text](image-2.png)
+
+
+    # homework
+
+     - initialize git
+     - gitignore
+     - Create a remote repo on github
+     - Push all code to remote origin
+     - Play with routes and route extensions ex. /hello, / , hello/2 , /xyz
+     - Order of the routes matter a lot
+     - Install Postman app and make a workspace/collection > test API call
+     - Write logic to handle GET , POST , PATCH, DELETE API calls and test them on postman
